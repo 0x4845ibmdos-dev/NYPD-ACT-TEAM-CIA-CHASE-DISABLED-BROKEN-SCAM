@@ -1,8 +1,6 @@
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c50acb-a814-4f02-ad23-31ce68342a54" />
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3103f227-7ffe-4c9e-a940-086ff9d6ac85" />
 
-<img width="1920" height="2560" alt="KomikoAI" src="https://github.com/user-attachments/assets/b497a861-7aea-4a20-a71c-40f75d0d1f5c" />
-
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a7e9ecaa-3ff9-4c0f-ad6b-829d8d395009" />
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/200bc1e5-16ed-4deb-874f-65f930b3a345" />
