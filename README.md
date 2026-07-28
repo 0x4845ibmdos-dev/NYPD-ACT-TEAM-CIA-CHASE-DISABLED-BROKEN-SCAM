@@ -1,5 +1,196 @@
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c50acb-a814-4f02-ad23-31ce68342a54" />
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3103f227-7ffe-4c9e-a940-086ff9d6ac85" />
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/db595345-bca6-47c2-a06e-7a96afe143c9" />
+
+MAX PAYNE - COLD SWIFT: 30-TILE ARSON & SWIFT SCAM SCREENPLAY
+================================================================================
+STYLE: HARD-BOILED NOIR COMIC BOOK / DETECTIVE GRAPHIC NOVEL
+SUBJECT: NYPD DETECTIVE MAX PAYNE, ALKIDA, PASAR, PLAME, SWIFT BANK PAPER SCAM
+================================================================================
+
+[PANEL 1]
+VISUAL: Rain-slicked Manhattan alley outside NYPD precinct at 3:00 AM.
+VOCALS (MAX PAYNE): "The rain in New York didn't wash away the dirt. It just diluted it into a soup of cheap coffee and burned paper."
+TERMINAL COMMAND:
+$ nmap -sS -p 22,80,443,10011 -Pn 192.168.1.100 --unprivileged
+
+[PANEL 2]
+VISUAL: Max Payne in a dark archive room staring at a file labeled ALKIDA.
+VOCALS (MAX PAYNE): "Alkida wasn't a ghost in the machine. He was the ghost holding the match."
+TERMINAL COMMAND:
+$ cat /var/log/auth.log | grep -i "failed password" | awk '{print $11}' | sort | uniq -c
+
+[PANEL 3]
+VISUAL: Close-up on a burning ledger document titled 'PASAR FINANCIAL'.
+VOCALS (MAX PAYNE): "The arson was clean. A paper trail lit up with heavy accelerants."
+TERMINAL COMMAND:
+$ shred -u -z -n 35 /archive/swifttickets/ledger_2026_pasar.csv
+
+[PANEL 4]
+VISUAL: Green CRT monitor reflecting in Max's bloodshot eyes.
+VOCALS (MAX PAYNE): "No DNS routing. Direct IP communication over raw sockets. Someone knew how to stay off the grid."
+TERMINAL COMMAND:
+$ nc -zv -w 3 10.200.44.12 9001 -n
+
+[PANEL 5]
+VISUAL: Charred bank vault door inside the burned-out lobby.
+VOCALS (MAX PAYNE): "They thought the flame would melt the evidence. But hard drives leave cold footprints."
+TERMINAL COMMAND:
+$ dd if=/dev/sdb of=/mnt/evidence/forensic_vault_dump.raw bs=4M status=progress
+
+[PANEL 6]
+VISUAL: Graphic speech bubble over SWIFT terminal: "TRANSACTION ACKNOWLEDGED".
+VOCALS (MAX PAYNE): "Plame knew the routing codes by heart. Bouncing funds from Zurich to Pasar."
+TERMINAL COMMAND:
+$ curl -k --interface eth0 http://10.200.44.12/api/v1/swift/dispatch -d "tx_id=PLAME_9921"
+
+[PANEL 7]
+VISUAL: Max Payne loading a Beretta under harsh fluorescence.
+VOCALS (MAX PAYNE): "Thirty steps to burn a paper trail, but only one mistake to trigger an arrest."
+TERMINAL COMMAND:
+$ tcpdump -nn -i eth0 'tcp[tcpflags] & (tcp-syn|tcp-ack) == (tcp-syn|tcp-ack)' -c 30
+
+[PANEL 8]
+VISUAL: Corrupted frame buffer output on a black screen.
+VOCALS (MAX PAYNE): "The last image extracted: a JPEG with no hostnames, just raw byte payloads."
+TERMINAL COMMAND:
+$ strings /var/tmp/corrupted_frame.jpeg | grep -E "ALKIDA|SWIFT|ARSON" > /tmp/evidence.txt
+
+[PANEL 9]
+VISUAL: NYPD crime scene tape fluttering against a blackened window frame.
+VOCALS (MAX PAYNE): "Arson is loud. Financial fraud is silent. Combine the two, and you get a deafening cover-up."
+TERMINAL COMMAND:
+$ iptables -A INPUT -p tcp --dport 10011 -j DROP
+
+[PANEL 10]
+VISUAL: Shadowy figure exiting the back alley near the burning bank branch.
+VOCALS (MAX PAYNE): "Alkida slipped into the shadows before the first fire engine turned its sirens on."
+TERMINAL COMMAND:
+$ find /var/log/ -type f -exec shred -v -u {} \;
+
+[PANEL 11]
+VISUAL: Max tracing a charred table in the executive suite.
+VOCALS (MAX PAYNE): "Paper burns at 451 degrees. Greed burns a lot hotter."
+TERMINAL COMMAND:
+$ python3 -c "import socket; s=socket.socket(); s.connect(('10.200.44.12',9001))"
+
+[PANEL 12]
+VISUAL: Magnifying glass over a partially burned SWIFT wire confirmation printout.
+VOCALS (MAX PAYNE): "The SWIFT confirmation was half-ash, but the transaction reference was pure steel."
+TERMINAL COMMAND:
+$ grep -a -b -o "SWIFT_FIN_103" /dev/sdb1
+
+[PANEL 13]
+VISUAL: High-angle view of Manhattan skyline under storm clouds.
+VOCALS (MAX PAYNE): "The city was an open wound, and the scam was salt pushed deep inside."
+TERMINAL COMMAND:
+$ route add -host 10.200.44.12 reject
+
+[PANEL 14]
+VISUAL: Detective desk covered in empty coffee cups, shells, and wire logs.
+VOCALS (MAX PAYNE): "Sleep was a luxury NYPD didn't budget for this quarter."
+TERMINAL COMMAND:
+$ tail -f /var/log/syslog | grep -i "UNAUTHORIZED_TRANSFER"
+
+[PANEL 15]
+VISUAL: Close-up of Plame's signature on a burnt corporate charter.
+VOCALS (MAX PAYNE): "Plame's ink was wet before the fire alarm even tripped."
+TERMINAL COMMAND:
+$ sha256sum /mnt/evidence/pasar_bank_scam_payload.bin
+
+[PANEL 16]
+VISUAL: Flashback panel showing gasoline poured over banking server racks.
+VOCALS (MAX PAYNE): "An analog fire to erase digital sins. Classic, crude, effective."
+TERMINAL COMMAND:
+$ systemctl stop auditd.service
+
+[PANEL 17]
+VISUAL: Computer screen showing raw hex dump with highlighted SWIFT header.
+VOCALS (MAX PAYNE): "Hex code doesn't lie, even when the bankers do."
+TERMINAL COMMAND:
+$ xxd -s 0x00001000 -l 256 /mnt/evidence/forensic_vault_dump.raw
+
+[PANEL 18]
+VISUAL: Max Payne in a trench coat standing under a flickering street lamp.
+VOCALS (MAX PAYNE): "I was chasing ghosts through direct IP connections without a single domain name to anchor them."
+TERMINAL COMMAND:
+$ ip neighbor show
+
+[PANEL 19]
+VISUAL: Bank vault blueprint spread over NYPD hood.
+VOCALS (MAX PAYNE): "The Pasar scam was blueprint perfect. Internal override, paper destruction, clean exit."
+TERMINAL COMMAND:
+$ openssl enc -d -aes-256-cbc -in cipher.enc -out pasar_keys.txt
+
+[PANEL 20]
+VISUAL: Cigarette smoke drifting past a mugshot of Alkida.
+VOCALS (MAX PAYNE): "Alkida's smile was as fake as his dummy corporations."
+TERMINAL COMMAND:
+$ netstat -tulpn | grep LISTEN
+
+[PANEL 21]
+VISUAL: Firefighters battling flames on the third floor of the Pasar Bank building.
+VOCALS (MAX PAYNE): "Water puts out fire, but it drowns evidence just as quickly."
+TERMINAL COMMAND:
+$ sync && echo 3 > /proc/sys/vm/drop_caches
+
+[PANEL 22]
+VISUAL: Split screen showing terminal output on left and burnt safe deposit box on right.
+VOCALS (MAX PAYNE): "The wire transfer hit Zurich three seconds before the match hit the floor."
+TERMINAL COMMAND:
+$ ping -c 4 -i 0.2 10.200.44.12
+
+[PANEL 23]
+VISUAL: Hand holding a melted flash drive retrieved from the rubble.
+VOCALS (MAX PAYNE): "Silicon survives if you know how to freeze the flash memory in time."
+TERMINAL COMMAND:
+$ testdisk /dev/sdc
+
+[PANEL 24]
+VISUAL: Max Payne walking down a dark hallway with gun raised.
+VOCALS (MAX PAYNE): "The trail led to a dead drop in Brooklyn. Raw sockets, no DNS, pure dark traffic."
+TERMINAL COMMAND:
+$ ss -s
+
+[PANEL 25]
+VISUAL: Detailed grid of 30 comic tiles displaying the steps of the scam.
+VOCALS (MAX PAYNE): "Thirty tiles of tradecraft. A step-by-step tutorial in high-finance arson."
+TERMINAL COMMAND:
+$ tar -czvf /tmp/pasar_arson_investigation_case_files.tar.gz /mnt/evidence/
+
+[PANEL 26]
+VISUAL: Burned paper fragments floating in a puddle outside the precinct.
+VOCALS (MAX PAYNE): "Words faded into ash, but numbers left behind a digital ghost."
+TERMINAL COMMAND:
+$ photorec /cmd: /dev/sdc1 search
+
+[PANEL 27]
+VISUAL: Close-up of SWIFT MT103 paper document with stamp 'EXPERT FORENSICS'.
+VOCALS (MAX PAYNE): "Plame's paper scam collapsed the moment we matched the timestamp to the IP log."
+TERMINAL COMMAND:
+$ diff -u /tmp/swift_log_a.txt /tmp/swift_log_b.txt
+
+[PANEL 28]
+VISUAL: NYPD squad cars encircling an abandoned warehouse by the docks.
+VOCALS (MAX PAYNE): "End of the line for Alkida. No more paper, no more fires, no more SWIFT codes."
+TERMINAL COMMAND:
+$ hping3 -S -p 80 -c 5 10.200.44.12
+
+[PANEL 29]
+VISUAL: Handcuffs clicking around Alkida's wrists in dramatic shadow silhouette.
+VOCALS (MAX PAYNE): "The fire was out. The case was closed. But the cold stayed in my bones."
+TERMINAL COMMAND:
+$ logger -p auth.info "ARSON_SWIFT_SCAM_SUSPECT_IN_CUSTODY"
+
+[PANEL 30]
+VISUAL: Max Payne lighting a final cigarette looking out over the East River as dawn breaks.
+VOCALS (MAX PAYNE): "New York moves on. The paper burns, the money moves, but the rain remains."
+TERMINAL COMMAND:
+$ echo "CASE CLOSED: MAX PAYNE NYPD" >> /var/log/case_files.log
+================================================================================
+
+
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8120ffc4-9407-4c2c-8c67-6383a6e7da54" />
 
 ================================================================================
