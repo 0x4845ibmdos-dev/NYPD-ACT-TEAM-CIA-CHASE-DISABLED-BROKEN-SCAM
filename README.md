@@ -1,6 +1,148 @@
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c50acb-a814-4f02-ad23-31ce68342a54" />
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3103f227-7ffe-4c9e-a940-086ff9d6ac85" />
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a4a3e115-918b-4b50-8807-71f5447c41c0" />
+
+================================================================================
+MARVEL COMIC ACTION 30 TILE SCENES:
+MAX PAYNE // ESCORT LUST // NYPD CHEM SPY LAB
+================================================================================
+
+STYLE / VISUAL DIRECTION:
+- Classic 90s Marvel gritty comic panel layout, heavy black ink, halftone textures.
+- Max Payne noir mood, high-contrast urban neon lighting.
+- High-intensity action featuring Yellow-Vest Escort vs NYPD Android Bodycam Units.
+
+--------------------------------------------------------------------------------
+ACT I: METRO TERMINAL BREACH (Tiles 1-10)
+--------------------------------------------------------------------------------
+[TILE 01]
+Visual: High-angle exterior shot of Grand Central Metro Terminal under heavy rain.
+Caption Box: "root@kali:~# [0x00] METRO_NET // INFILTRATING TERMINAL B..."
+
+[TILE 02]
+Visual: Close-up on Yellow-Vest Escort adjusting a heavy 1kg silver Cartier link chain.
+Dialog (Escort): "root@escort:~# pkill -9 nypd_patrol.sh --force"
+
+[TILE 03]
+Visual: NYPD Officer in white tactical vest with chest-mounted Android body camera blinking red.
+Dialog (NYPD): "ALERT: REC_SESSION_LIVE. Uplink speed: 100 Mbps. Hold position!"
+
+[TILE 04]
+Visual: Zoom-in on Escort drawing a custom ULINE Visine nozzle bottle with glowing chemical.
+Dialog (Escort): "1337_INJECT --payload=chem_spy_v2.bin"
+
+[TILE 05]
+Visual: Chemical reagent dripping onto Metro Terminal diagnostic panel. Sparks fly.
+Screen Display: "NASM_CERT_CHECK: OVERRIDDEN. SYSTEM CRITICAL."
+
+[TILE 06]
+Visual: Max Payne silhouette standing in shadows, dual Berettas drawn, trench coat blowing.
+Dialog (Max Payne): "The rain outside couldn't wash away the stench of black-budget chemistry."
+
+[TILE 07]
+Visual: NYPD Officer lunging forward as bodycam streams distorted telemetry data.
+Bodycam HUD: "[ERR 404] DNS_RESOLVE_FAILED (NO_SAMSUNG_DNS_FOUND)"
+
+[TILE 08]
+Visual: Escort spinning roundhouse kick, thick silver Cartier chain swinging like a weapon.
+Dialog (Escort): "0wn3d_u_b01! chown -R escort:root /nypd/labs/"
+
+[TILE 09]
+Visual: Chemical reaction igniting terminal circuitry in bright neon blues and yellows.
+SFX: "KZZZZT! SHHHH-FZZZ!"
+
+[TILE 10]
+Visual: Close-up of NYPD Officer face as chemical fumes haze his tactical visor.
+Dialog (NYPD): "MAYDAY! CHEM-AGENT DETECTED AT GATE 4!"
+
+--------------------------------------------------------------------------------
+ACT II: THE CHEM-SPY LAB HIJACK (Tiles 11-20)
+--------------------------------------------------------------------------------
+[TILE 11]
+Visual: Secret underground NYPD Chem-Spy Lab revealed behind vault door in Metro Terminal.
+Caption: "[0x01] SUB-LEVEL 3 // CLASSIFIED CHEM SPY FACILITY"
+
+[TILE 12]
+Visual: Escort leaping through shattered glass entry in full Marvel action pose.
+Dialog (Escort): "chmod +x /dev/payload && ./inject_lust.sh"
+
+[TILE 13]
+Visual: Max Payne firing into air, clearing perimeter in classic bullet-time motion.
+SFX: "BLAM! BLAM! BLAM!"
+
+[TILE 14]
+Visual: Macro shot of ULINE Visine nozzle applying precise drops onto NASM sensor terminal.
+Screen Display: "NASM_CHECK: CERTIFIED. ACCESS GRANTED."
+
+[TILE 15]
+Visual: Second NYPD Tactical Squad pushing in with riot shields and white body armor.
+Dialog (NYPD Lead): "SUPPRESS THE INFILTRATOR! LOCK DOWN THE SUBNET!"
+
+[TILE 16]
+Visual: Escort ripping Android body camera off officer vest, slamming it into data port.
+Dialog (Escort): "h4ck_th3_pl4n3t // dumping_flash_memory..."
+
+[TILE 17]
+Visual: Low-angle shot of silver Cartier necklace catching flash of lab strobe lights.
+Dialog (Max Payne): "A kilo of silver won't stop a 9mm, but it looks real slick under strobe lights."
+
+[TILE 18]
+Visual: Graphic breakdown panel of chemical compound destabilizing NYPD server rack.
+HUD Overlay: "FORMULA: C12-H18-N2-O // CORROSION AT 99%"
+
+[TILE 19]
+Visual: NYPD bodycam feed broadcasting glitching ASCII art across lab monitors.
+Monitors: "u_g0t_h4ck3d_luz3r // 1337_KALI_RULEZ"
+
+[TILE 20]
+Visual: Escort throwing chemical flare into mist to create smoke screen escape.
+SFX: "FSSSSHHHHHH!"
+
+--------------------------------------------------------------------------------
+ACT III: TERMINAL PURGE & ESCAPE (Tiles 21-30)
+--------------------------------------------------------------------------------
+[TILE 21]
+Visual: Max Payne stepping through smoke, muzzle flashes illuminating trench coat.
+Dialog (Max Payne): "The final act was playing out on a broken terminal screen."
+
+[TILE 22]
+Visual: NYPD Officers scrambling through haze as chem lab goes into thermal shutdown.
+Dialog (NYPD): "SYSTEM OVERHEAT! DISCONNECT THE ROUTERS!"
+
+[TILE 23]
+Visual: Escort pulling empty ULINE Visine bottle from NASM terminal bay.
+Dialog (Escort): "rm -rf /logs/* --no-preserve-root"
+
+[TILE 24]
+Visual: Close-up of Android bodycam lens cracking, displaying raw hex code as it dies.
+Bodycam HUD: "CRITICAL_FAILURE: KERNEL_PANIC_0xDEADBEEF"
+
+[TILE 25]
+Visual: Metro Terminal blast doors slamming shut violently.
+SFX: "CLANG! THUD!"
+
+[TILE 26]
+Visual: Escort vaulted onto hood of armored metro vehicle, silver chain swinging.
+Dialog (Escort): "g3t_pwn3d_nypd // exit(0)"
+
+[TILE 27]
+Visual: NYPD reinforcements trapped behind reinforced NASM security glass.
+Dialog (NYPD): "SHE PURGED THE NETWORK LOGS! WE HAVE NO TRACE!"
+
+[TILE 28]
+Visual: Wide shot of destroyed Chem Spy Lab with industrial amber alerts glowing.
+Caption: "NASM STATUS: TERMINATED. DATA EXFILTRATED."
+
+[TILE 29]
+Visual: Max Payne picking up lingering chemical vial, staring at reflection.
+Dialog (Max Payne): "No logs, no traces. Just another rainy night in New York."
+
+[TILE 30]
+Visual: Final splash panel showing Escort vanishing into subway tunnel.
+Terminal Screen: "1337_KALI_SESSION_CLOSED // NO_DNS_LEAKS"
+================================================================================
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/87f2ddf2-e2af-4dfa-813b-3311cbdf3e26" />
 
 
