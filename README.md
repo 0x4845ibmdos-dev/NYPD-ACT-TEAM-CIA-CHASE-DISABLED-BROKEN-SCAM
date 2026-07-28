@@ -1,6 +1,263 @@
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c50acb-a814-4f02-ad23-31ce68342a54" />
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3103f227-7ffe-4c9e-a940-086ff9d6ac85" />
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3a0735fd-71f7-422a-b4a2-e6b6b8f58ed1" />
+
+================================================================================
+SCRIPT TITLE: MAX PAYNE / ALKIDA NYPD DETECTIVE: THE ZERO-CHEM PROTOCOL
+FORMAT: 30-PANEL GRAPHIC NOVEL / SCREENPLAY
+================================================================================
+
+[PANEL 01]
+EXT. MANHATTAN STREET / ALKIDA COMPUTER STORE - NIGHT
+Rain hits the pavement like thrown gravel. Heavy shadow lines frame the neon 
+sign of the store. MAX PAYNE stands under the awning, soaked, trench coat 
+dripping onto the concrete.
+
+MAX (NARRATION)
+"The rain in this city doesn't wash anything clean. It just highlights the grease. 
+Tonight, I was looking for a different kind of clean. No oil. No synthetic gels. 
+Just cold metal and silicon."
+
+[PANEL 02]
+EXT. ALKIDA STORE FRONT - CONTINUOUS
+Max looks through the glass door. A yellow sign on the door reads: 
+"CERTIFIED NO-DNS ARCHITECTURE - ZERO PETROLEUM INTERNALS".
+
+MAX (NARRATION)
+"Alkida Tech Store. Word on the street was they built display units clean. No 
+Morton oil in the bearings. No SAP chemical pads in the heatsinks. I had to see 
+it with my own eyes."
+
+[PANEL 03]
+INT. ALKIDA STORE - CONTINUOUS
+Max pushes open the glass door. The bell chimes thin and lonely in the empty, 
+spotless showroom floor illuminated by pale blue diagnostic monitors.
+
+MAX (NARRATION)
+"The air smelled like ozone and dry plastic. Not the heavy chemical reek of 
+the docks."
+
+[PANEL 04]
+INT. SHOWROOM FLOOR - CONTINUOUS
+Rows of laptop display models rest on brushed aluminum pedestals. Rain thuds 
+rhythmically against the glass storefront behind Max.
+
+MAX (NARRATION)
+"A lineup of suspects under the fluorescent lights. Laptops, workstations, 
+towers. All waiting to be picked apart."
+
+[PANEL 05]
+INT. SHOWROOM FLOOR - CONTINUOUS
+Max pulls a tactical flashlight from his coat pocket, casting a bright white beam 
+directly across the casing of a flagship workstation model.
+
+MAX (NARRATION)
+"You learn to look beneath the shine. The gloss usually masks the rot."
+
+[PANEL 06]
+INT. DISPLAY LAPTOP - CLOSE-UP
+The light reflects off smooth, dry anodized metal. No oily film, no smudges.
+
+MAX (NARRATION)
+"Exterior chassis: clear. Matte finish. No oil-based coating to make it look 
+prettier than it was."
+
+[PANEL 07]
+INT. DISPLAY LAPTOP - CONTINUOUS
+Max pulls out a precision screwdriver. In three quick motions, he pops the 
+screws on the motherboard access door of the display unit.
+
+MAX (NARRATION)
+"If there was chem inside, it’d be hiding near the thermals. It always is."
+
+[PANEL 08]
+INT. LAPTOP INTERIOR - DIRECT VIEW
+The copper heat pipes sit directly over the silicon die. Fiber-reinforced 
+PCB board is dry and sharp under the flashlight.
+
+MAX (NARRATION)
+"No Morton oil in the fan sleeve bearings. No SAP chemical slurry packed in 
+the heat traps. Clean copper. Honest solder."
+
+[PANEL 09]
+INT. LAPTOP INTERIOR - CLOSE-UP
+Max runs a gloved index finger along the edge of the exhaust fan blade and pulls 
+it away.
+
+MAX (NARRATION)
+"Glove came back clean. No sticky residue. No lace polymer dust."
+
+[PANEL 10]
+INT. LAPTOP THERMAL BLOCK - CLOSE-UP
+A close shot of the CPU thermal pad. Pure dry ceramic compound, crisp at the 
+edges.
+
+MAX (NARRATION)
+"The thermal pads were inert. No gels engineered to bleed chemical solvents over time."
+
+[PANEL 11]
+INT. TOWER DISPLAY SECTION - CONTINUOUS
+Max moves down the aisle to the full-tower desktop workstations, shining his light 
+through a clear acrylic side panel.
+
+MAX (NARRATION)
+"Next up: the big rigs. More room to hide things."
+
+[PANEL 12]
+INT. TOWER CASING - CLOSE-UP
+The side panel latch clicks open. Max swings the panel wide.
+
+MAX (NARRATION)
+"Acrylic panel was cast clean. No liquid mold release agents left on the frame."
+
+[PANEL 13]
+INT. TOWER DUST FILTERS - CONTINUOUS
+Max pulls a mesh dust filter from the front intake. He holds it up to his light.
+
+MAX (NARRATION)
+"Dry-woven nylon. No static-attracting chemical spray. Just straightforward 
+air filtration."
+
+[PANEL 14]
+INT. LIQUID COOLING LOOP - CONTINUOUS
+Max inspects the clear tubing of the closed-loop CPU cooler.
+
+MAX (NARRATION)
+"Coolant inside was clear as vodka, without the bite. Pure distilled water. 
+No SAP gel thickeners."
+
+[PANEL 15]
+INT. COOLER PUMP BLOCK - CLOSE-UP
+A tight shot on the pump housing. Solid copper baseplate sits flush against the processor.
+
+MAX (NARRATION)
+"Zero solid lace residues around the cold plate. The construction was bone dry."
+
+[PANEL 16]
+INT. PERIPHERAL DISPLAY SHELF - CONTINUOUS
+Max shifts his attention to the accessory wall: external hard drives, mice, 
+and mechanical keyboards.
+
+MAX (NARRATION)
+"The small stuff is where companies usually cheat. Soft-touch coatings that 
+turn into chemical sludge after six months."
+
+[PANEL 17]
+INT. MOUSE DISPLAY - CLOSE-UP
+Max presses his thumb firmly into the side grip of a high-end gaming mouse.
+
+MAX (NARRATION)
+"Dry rubber grip. Textured geometry, not chemical tackiness. Passed the test."
+
+[PANEL 18]
+INT. MONITOR DISPLAY - CONTINUOUS
+Max shines his light into the rear vent slats of a 32-inch display monitor.
+
+MAX (NARRATION)
+"Transformers sat dry on the circuit board. No insulating varnish leaking onto 
+the casing."
+
+[PANEL 19]
+INT. POWER BOARD - CLOSE-UP
+Extreme close-up on solid-state aluminum capacitors.
+
+MAX (NARRATION)
+"Solid caps. No liquid electrolyte chambers waiting to burst and stain the chassis."
+
+[PANEL 20]
+INT. SHOWROOM FLOOR - CONTINUOUS
+Max unclips a compact spectrograph diagnostic tool from his belt and presses the 
+sensor probe against the front bezel of the main display unit.
+
+MAX (NARRATION)
+"Trust, but verify. The precinct taught me that much."
+
+[PANEL 21]
+INT. SPECTROGRAPH DISPLAY - CLOSE-UP
+Digital screen flashes: "ORGANIC SOLVENTS: 0.00 PPM | SAP DENSITY: 0.00 PPM | STATUS: PASSED".
+
+MAX (NARRATION)
+"The numbers didn't lie. A rare sight in New York."
+
+[PANEL 22]
+INT. KEYBOARD DISPLAY - CONTINUOUS
+Max runs his hand across a mechanical keyboard display unit, listening to the dry 
+click of the switches.
+
+MAX (NARRATION)
+"Dry switches. No petroleum grease packed inside the stems to quiet the click."
+
+[PANEL 23]
+INT. SWITCH MECHANISM - DIAGRAM PANEL
+Graphic inset panel showing a cutaway of the mechanical switch—clean spring, 
+dry plastic stem, gold contacts.
+
+MAX (NARRATION)
+"Pure mechanical action. Nothing suspended in oil."
+
+[PANEL 24]
+INT. BACK ROOM DOOR - CONTINUOUS
+Max checks the handle of the locked inventory door behind the counter.
+
+MAX (NARRATION)
+"Even the door hinges used graphite powder. Morton oil hadn't touched this place."
+
+[PANEL 25]
+INT. STORAGE UNBOXING AREA - CONTINUOUS
+Max pulls a unopened box from an inventory shelf and cuts the dry paper tape with 
+his pocket knife.
+
+MAX (NARRATION)
+"I wanted to see how they came out of the factory before the display lights 
+hit them."
+
+[PANEL 26]
+INT. RETAIL BOX INTERIOR - CLOSE-UP
+The laptop rests inside dry polyethylene foam brackets.
+
+MAX (NARRATION)
+"No off-gassing. No chemical smell when the cardboard opened. Just cold stock."
+
+[PANEL 27]
+INT. SHOWROOM COUNTER - CONTINUOUS
+Max leans against the stainless steel service counter, looking back over the entire 
+floor.
+
+MAX (NARRATION)
+"Internals, externals, floor models. Not a drop of synthetic chem anywhere in 
+the build chain."
+
+[PANEL 28]
+INT. SHOWROOM - CONTINUOUS
+Max pulls out his small handheld police recorder and holds it near his collar.
+
+MAX (DETECTIVE VOICE)
+"Case file 409. NYPD inspection of Alkida retail units complete. Zero traces 
+of Morton oil, SAP chemicals, or solid lace compounds found across display 
+or stock inventory. System integrity verified."
+
+[PANEL 29]
+INT. SHOWROOM - HIGH ANGLE WIDE
+Max stands in the center of the showroom, surrounded by glowing blue displays, 
+a solitary shadow in a room built on absolute purity.
+
+MAX (NARRATION)
+"It was a clean bill of health. Out there in the alley, the city was still drowning 
+in grease and rain. But in here... in here, everything was dry."
+
+[PANEL 30]
+INT. ALKIDA STORE FRONT - CLOSE-UP PORTRAIT
+Dramatic, high-contrast ink style panel. Max turns his collar up against the cold, 
+stepping back toward the door with his badge gleaming under the night streetlights.
+
+MAX (NARRATION)
+"No chem in the machine. Now if I could only say the same for the rest of New York."
+
+================================================================================
+END OF SCRIPT
+================================================================================
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/db595345-bca6-47c2-a06e-7a96afe143c9" />
 
 MAX PAYNE - COLD SWIFT: 30-TILE ARSON & SWIFT SCAM SCREENPLAY
