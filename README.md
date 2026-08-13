@@ -1,3 +1,270 @@
+<div align="center">
+
+<!-- ========================================== -->
+<!-- TOP FILM STRIP HEADER BOARD -->
+<!-- ========================================== -->
+
+```
+ 🎞️ [ 🎬 FRAME #001 ] ─── [ TAKE 13 ] ─── [ NYPD-ACT-9824 ] ─── [ SILICON & GOTHIC IRON ] ─── [ 35MM SAFETY FILM ] 🎞️
+ █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+ ▌  [■] [■] [■] [■] [■] [■]   N Y P D   A C T   T E A M   : :   X E O N   D A T A   C E N T E R   [■] [■] [■] [■] [■] [■]  ▐
+ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+```
+
+<br/>
+
+<!-- ========================================== -->
+<!-- MAIN TITLE BANNER (GOTHIC NOIR SILENT FILM) -->
+<!-- ========================================== -->
+
+<table>
+<tr>
+<td align="center" width="960" bgcolor="#0b0c10">
+<br/>
+<font size="6" face="Georgia, serif" color="#c5a059">
+<b>✦ 𝔑𝔜𝔅𝔇 𝔄𝔡𝔳𝔞𝔫𝔠𝔢𝔡 ℭ𝔶𝔟𝔢𝔯 𝔗𝔞𝔠𝔱𝔦𝔠𝔞𝔩 ✦</b>
+</font>
+<br/>
+<font size="3" face="Courier New, monospace" color="#8892b0">
+<b>[ C I N E M A T I C   D O S S I E R   : :   V I C T O R I A N   G O T H I C   N O I R ]</b>
+</font>
+<br/><br/>
+
+<hr width="80%" color="#332211"/>
+
+<p align="center">
+<font face="Georgia, serif" color="#d1d5db" size="4">
+<i>“Amidst gaslit shadows of the old metropolis and the hum of high-density silicon server vaults, the NYPD ACT Team intercepts the digital underworld.”</i>
+</font>
+</p>
+
+<hr width="80%" color="#332211"/>
+<br/>
+
+<!-- REEL BADGES -->
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/FILM_STOCK-35MM_NITRATE_NOIR-000000?style=for-the-badge&logoColor=c5a059&labelColor=1a1a1d" alt="Film Stock"/></a>
+<a href="#"><img src="https://img.shields.io/badge/UNIT-NYPD_ACT_TEAM-8b0000?style=for-the-badge&logoColor=ffffff&labelColor=2b0000" alt="NYPD ACT"/></a>
+<a href="#"><img src="https://img.shields.io/badge/INFRASTRUCTURE-INTEL_XEON_SCALABLE-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Xeon Core"/></a>
+<a href="#"><img src="https://img.shields.io/badge/ESTABLISHED-1899_//_2026-c5a059?style=for-the-badge&labelColor=0f0f12" alt="Era"/></a>
+</p>
+<br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- SCENE BREAK : FILM SPROCKET DIVIDER -->
+<!-- ========================================== -->
+
+<div align="center">
+<code>🎞️ ═[ SCENE 01: THE TELEMETRY VAULT ]═══════════════════════════════════════════════════════════════════════════════════════[ REEL #04 ]═ 🎞️</code>
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- TWO-COLUMN SECTION: DOSSIER & SYSTEM SPECS -->
+<!-- ========================================== -->
+
+<table>
+<tr>
+<td width="50%" valign="top" bgcolor="#0d0e12">
+
+<h3 align="center">
+<font face="Georgia, serif" color="#c5a059">📜 𝔗𝔥𝔢 𝔗𝔞𝔠𝔱𝔦𝔠𝔞𝔩 𝔇𝔬𝔰𝔰𝔦𝔢𝔯</font>
+</h3>
+
+<font size="3" face="Times New Roman, serif" color="#b3b8c5">
+
+* **DEPARTMENT:** New York City Police Department
+* **DIVISION:** Active Cyber & Technomics Team (ACT)
+* **OPERATIONAL LOCATION:** Xeon Server Vault #09, Subterranean Precinct
+* **ATMOSPHERE:** Gaslamp shadows, brass dials, obsidian silicon racks
+* **OBJECTIVE:** Threat mitigation, high-frequency signal intercept, cyber forensics
+
+> 🕯️ *"Iron gears and silicon traces whisper the same secrets in the dark."*
+
+</font>
+
+</td>
+<td width="50%" valign="top" bgcolor="#0d0e12">
+
+<h3 align="center">
+<font face="Georgia, serif" color="#4682b4">⚙️ ┋ ┋ ┋ ┋ ┋ 𝔛𝔢𝔬𝔫 ℭ𝔬𝔯𝔢 𝔖𝔭𝔢𝔠𝔰</font>
+</h3>
+
+<font size="2" face="Courier New, monospace" color="#8a99ad">
+
+```gdb
+[ SYSTEM TELEMETRY ARCHIVE ]
+------------------------------------------------
+ARCHITECTURE : Multi-Socket Intel Xeon Scalable
+COMPUTE CORE : 256 Threads @ 3.80GHz
+COOLING      : Brass-Piped Liquid Nitrogen
+ENCRYPTION   : Victorian Cipher + RSA-4096
+STORAGE      : NVMe Raid-10 Obsidian Stacks
+STATUS       : ONLINE // MONITORING TELEGRAPH
+------------------------------------------------
+```
+
+</font>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- SCENE BREAK : FILM SPROCKET DIVIDER -->
+<!-- ========================================== -->
+
+<div align="center">
+<code>🎞️ ═[ SCENE 02: SQUAD OPERATIONAL ROSTER ]═════════════════════════════════════════════════════════════════════════════════════[ REEL #05 ]═ 🎞️</code>
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- SQUAD ROSTER TABLE (SILENT FILM CARD STYLE) -->
+<!-- ========================================== -->
+
+<div align="center">
+
+<table>
+<thead>
+<tr bgcolor="#1a1c23">
+<th><font color="#c5a059" face="Georgia">FRAMES</font></th>
+<th><font color="#c5a059" face="Georgia">OPERATIVE</font></th>
+<th><font color="#c5a059" face="Georgia">CLASS / DESIGNATION</font></th>
+<th><font color="#c5a059" face="Georgia">SPECIALIZATION</font></th>
+<th><font color="#c5a059" face="Georgia">STATUS</font></th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#0a0b0e">
+<td align="center"><font face="Courier New" color="#888"><b>[ 01 ]</b></font></td>
+<td><font face="Georgia" color="#fff"><b>Inspector E. Vance</b></font></td>
+<td><font face="Courier New" color="#8b0000">Tactical Commander</font></td>
+<td><font face="Times New Roman" color="#aaa">Strategic Cyber Incident Command</font></td>
+<td><font color="#00ff66">● ACTIVE</font></td>
+</tr>
+<tr bgcolor="#121318">
+<td align="center"><font face="Courier New" color="#888"><b>[ 02 ]</b></font></td>
+<td><font face="Georgia" color="#fff"><b>Detective A. Sterling</b></font></td>
+<td><font face="Courier New" color="#4682b4">Xeon Systems Engineer</font></td>
+<td><font face="Times New Roman" color="#aaa">Server Array Optimization & Intrusion</font></td>
+<td><font color="#00ff66">● ACTIVE</font></td>
+</tr>
+<tr bgcolor="#0a0b0e">
+<td align="center"><font face="Courier New" color="#888"><b>[ 03 ]</b></font></td>
+<td><font face="Georgia" color="#fff"><b>Agent H. Blackwood</b></font></td>
+<td><font face="Courier New" color="#c5a059">Cryptanalyst Specialist</font></td>
+<td><font face="Times New Roman" color="#aaa">Victorian Ciphers & Algorithmic Decryption</font></td>
+<td><font color="#00ff66">● ACTIVE</font></td>
+</tr>
+<tr bgcolor="#121318">
+<td align="center"><font face="Courier New" color="#888"><b>[ 04 ]</b></font></td>
+<td><font face="Georgia" color="#fff"><b>Officer C. O'Malley</b></font></td>
+<td><font face="Courier New" color="#a9a9a9">Tactical Breach / Hardware</font></td>
+<td><font face="Times New Roman" color="#aaa">Physical Data Center Security & Forensics</font></td>
+<td><font color="#ffcc00">▲ STANDBY</font></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- CINEMATIC FILM REEL DISPLAY / WORKFLOW -->
+<!-- ========================================== -->
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td bgcolor="#08080a" align="center">
+<br/>
+<font face="Georgia, serif" color="#c5a059" size="4">
+<b>📽️ 𝔗𝔥𝔢 ℭ𝔦𝔫𝔢𝔪𝔞𝔱𝔦𝔠 𝔒𝔟𝔰𝔢𝔯𝔳𝔞𝔱𝔦𝔬𝔫 𝔇 deck</b>
+</font>
+<br/><br/>
+
+```text
+  +----------------------------------------------------------------------------------------+
+  |  [35MM FILM STRIP : EXPOSURE #9924]                                                    |
+  |                                                                                        |
+  |     ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐            |
+  |     │ 🕮 INCIDENT RECORD│  ──>  │ ⚙️ XEON CLUSTER  │  ──>  │ ⚔️ TACTICAL ACT  │            |
+  |     │  Gaslamp Signals│       │  Data Processing│       │  Intervention   │            |
+  |     └─────────────────┘       └─────────────────┘       └─────────────────┘            |
+  |                                                                                        |
+  |  [STATUS]: ALL SYSTEMS RUNNING WITHIN GOTHIC NOIR PARAMETERS. NO SIGNAL LEAKS DETECTED.|
+  +----------------------------------------------------------------------------------------+
+```
+
+<br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- LOG CONSOLE (DARK NOIR TERMINAL) -->
+<!-- ========================================== -->
+
+<details>
+<summary><b>📜 [CLICK TO UNROLL VINTAGE TELEGRAPH LOGS & XEON TELEMETRY]</b></summary>
+
+<br/>
+
+```console
+[1899-10-31 23:59:59] [NYPD-ACT-CONSOLE] :: Initializing Xeon Processing Vault...
+[1899-10-31 00:00:02] [HARDWARE] ........ Intel(R) Xeon(R) Scalable Processors Mounted [256 Cores]
+[1899-10-31 00:00:05] [OPTICS] .......... 35mm Nitrate Lens calibrated to Noir Monochromatic Spectrum
+[1899-10-31 00:00:09] [ATMOSPHERE] ...... Steam Pressure: 120 PSI | Gas Lamp Luminance: 15 Lux
+[1899-10-31 00:00:14] [SECURITY] ........ NYPD ACT Shield verified. Encryption key loaded from brass cylinder.
+[1899-10-31 00:00:20] [SYSTEM ALERT] .... Incoming cyber signal detected on Sector 7 server rack.
+[1899-10-31 00:00:21] [TACTICAL] ........ Dispatched Agent Sterling to Rack #09.
+[1899-10-31 00:00:25] [STATUS] .......... Threat neutralized. Log saved to 35mm micro-spool.
+```
+
+</details>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- FOOTER CINEMA REEL BOARD -->
+<!-- ========================================== -->
+
+<div align="center">
+
+<hr color="#332211" size="1"/>
+
+<p align="center">
+<font face="Georgia, serif" color="#777" size="2">
+<b>— F I N —</b><br/>
+<i>Produced by NYPD ACT Unit • Powered by Intel Xeon Data Architectures • Shot on 35mm Gothic Noir Stock</i>
+</font>
+</p>
+
+```
+ 🎞️ [ END OF REEL ] ════════════════════════════════════════════════════════════════ [ TAKE 13 COMPLETE ] 🎞️
+```
+
+</div>
+
+
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c50acb-a814-4f02-ad23-31ce68342a54" />
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/3103f227-7ffe-4c9e-a940-086ff9d6ac85" />
 
