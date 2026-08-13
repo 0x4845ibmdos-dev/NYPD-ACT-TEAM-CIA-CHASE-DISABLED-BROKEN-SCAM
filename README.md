@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f776c995-9271-4386-84f8-6c3ad4e0f6ea" />
+
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6da84ed1-f052-4f4e-96a6-3e0a2b46a173" />
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f18ff9b-0f04-450e-95d9-64b3935706a2" />
