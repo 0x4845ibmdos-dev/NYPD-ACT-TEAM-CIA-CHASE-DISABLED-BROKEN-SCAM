@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="878" height="6954" alt="identity-booklet-profile" src="https://github.com/user-attachments/assets/ff347622-9482-4a25-a81b-f3265a34c647" />
+
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f9ec7745-6e78-40a3-8dc7-a4d783a8bde3" />
 
 
