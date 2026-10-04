@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="592" height="518" alt="NYPD" src="https://github.com/user-attachments/assets/3c73077d-1ffb-4bfa-aeb0-51da8d7b946a" />
+
+
 <img width="640" height="480" alt="sonyisbnnypd" src="https://github.com/user-attachments/assets/cb4209bb-12b8-433f-a92e-34c37ed3a567" />
 
 **SONY ISBN LEGO NYPD BOSE DETECTIVE**
