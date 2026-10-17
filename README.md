@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f303970f-f6ad-4216-abc8-7e50cd221740" />
+
+
 <img width="2408" height="688" alt="ocr-a-typewriter-export (1)" src="https://github.com/user-attachments/assets/c2a5d71a-7f99-4017-a783-eaf23110e8c3" />
 
 
