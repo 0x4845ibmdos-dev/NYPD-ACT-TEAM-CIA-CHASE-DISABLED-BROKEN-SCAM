@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="2408" height="688" alt="ocr-a-typewriter-export (1)" src="https://github.com/user-attachments/assets/c2a5d71a-7f99-4017-a783-eaf23110e8c3" />
+
+
 <img width="592" height="518" alt="NYPD" src="https://github.com/user-attachments/assets/3c73077d-1ffb-4bfa-aeb0-51da8d7b946a" />
 
 
