@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1743699f-e31b-4d27-9b2d-281ee895f41e" />
+
+
 <img width="1408" height="768" alt="Gemini_Generated_Image_or20h2or20h2or20" src="https://github.com/user-attachments/assets/83e4dc58-cb89-4bf0-80b7-c5b5636d8f21" />
 
 
