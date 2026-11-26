@@ -264,6 +264,9 @@ STATUS       : ONLINE // MONITORING TELEGRAPH
 
 </div>
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/95021b25-9eaf-40a3-a913-38aeb857534f" />
+
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a6ffd66d-5475-452f-b0cc-6301c08189db" />
 SPANISH LATINA WHORA GRANDE ESPESIONAL
 
